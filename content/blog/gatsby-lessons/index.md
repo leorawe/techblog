@@ -1,6 +1,8 @@
 ---
 title: Lessons Learned Building Gatsby Sites
 date: "2020-09-06T23:46:37.121Z"
+description: A post with all kinds of Gatsby Beginner observations.
+
 ---
 
 
