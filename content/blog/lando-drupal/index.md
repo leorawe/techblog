@@ -1,7 +1,7 @@
 ---
 title: Lando + Drupal 8 + Second Database
 date: "2020-03-01T22:40:32.169Z"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+description: Lando is a free, open-source platform for building local Drupal, WordPress or other PHP sites. Learn how to use Lando for a second database.
 ---
 
 
