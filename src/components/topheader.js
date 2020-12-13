@@ -26,7 +26,7 @@ const TopHeader = () => (
         }
       }
     `}
-    render={data => <Img fluid={data.placeholderImage.childImageSharp.fluid} />}
+    render={data => <Img fluid={data.placeholderImage.childImageSharp.fluid} alt="Website Musings blog" />}
   />
 )
 export default TopHeader
